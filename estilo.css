@@ -1,0 +1,17 @@
+.izquierda {
+    background-color: red;
+    width: 30%;
+    height: 600px;
+    float: left;
+    margin: 15px;
+    position: fixed;
+}
+.derecha {
+    background-color: skyblue;
+    width: 65%;
+    float: right;
+}
+
+h4 {
+    text-align: center;
+}
